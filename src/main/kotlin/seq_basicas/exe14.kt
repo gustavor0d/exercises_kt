@@ -1,4 +1,4 @@
-package exercises
+package seq_basicas
 
 fun main() {
     println("Digite a quantidade de Kms percorridos:")
